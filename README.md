@@ -1,6 +1,6 @@
 # 🚀 C++ System Monitor  
 
-![System Monitor](./images/system-monitor.png)  
+![System Monitor](./monitor.png)  
 
 🔍 **C++ System Monitor** is a lightweight system monitoring tool that provides real-time insights into **CPU usage, RAM consumption, and disk space**. Designed for **Windows**, it offers a simple yet effective way to track your system’s performance.  
 
