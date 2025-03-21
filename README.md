@@ -27,3 +27,14 @@
 ```bash
 git clone https://github.com/AimeKelvin/cpp-system-monitor.git
 cd cpp-system-monitor
+```
+### **2️⃣ move to the folder where the program is located and compile it**  
+```bash
+g++ system_monitor.cpp -o system_monitor.exe
+```
+
+### **3️⃣ Finally run it**  
+```bash
+./system_monitor.exe
+
+```
